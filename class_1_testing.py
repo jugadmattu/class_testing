@@ -9,3 +9,4 @@ print('Hello world!')
 
 print('No more math.')
 print("jugad")
+print("jug")
